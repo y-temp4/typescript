@@ -8,7 +8,7 @@ import { Store } from 'vuex'
 import './vue'
 
 // augment typings of Vuex
-import './vuex'
+// import './vuex'
 
 type NuxtState = Record<string, any>
 
